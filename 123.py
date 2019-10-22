@@ -1,2 +1,3 @@
 x='abc'
-print(x)
+y=['q','234',True]
+print(x,y)
