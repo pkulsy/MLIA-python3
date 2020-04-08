@@ -1,7 +1,10 @@
-#this is a book
-# thus
-一、主要内容：
-机器学习笔记
+# Machine Learning In Action Notes
+
+## Author Indroduction
+  Name:Liu**  
+  TEL:18801225549  
+  University:Peking University
+
 二、使用教材
 教材名称：《机器学习实战》
 作者：[美]Peter Harrington 
