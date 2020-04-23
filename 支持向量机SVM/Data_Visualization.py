@@ -38,6 +38,6 @@ def showDataSet(attriMat, labelMat):
     plt.show()
 
 if __name__ == "__main__":
-    filepath = "testSet.txt"                                   # 文件路径
+    filepath = "testSet.txt"                                                                               # 文件路径
     attriMat, labelMat = loadDataSet(filepath)
     showDataSet(attriMat, labelMat)
